@@ -4,7 +4,7 @@ This portfolio was built and designed to showcase my projects client work.
 
 **Link to project:** http://www.mikejakuszewski.com
 
-![alt tag]()
+![alt tag](https://github.com/MikeJakuszewski/Portfolio-2023/blob/main/Portfolio-Gif.gif)
 
 ## How It's Made:
 
