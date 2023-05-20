@@ -32,10 +32,31 @@ This project was built using HTML, CSS, SCSS, and JavaScript. I utilized media q
 
 ## Portfolio Examples:
 
-These are the examples I have on my own portfolio:
+These are some of the projects I have on my portfolio:
 
-**Brik Masonry\*:** https://github.com/MikeJakuszewski/Brik-Masonry-Website
-
-**FadeWorks Barbershop:** https://github.com/MikeJakuszewski/Fadeworks-Barbershop-Website
-
-**Travel Memory Game:** https://github.com/MikeJakuszewski/Travel-Memory-Game
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/MikeJakuszewski/Brik-Masonry-Website"> Brik Masonry</a>
+        <br />
+      <a target="_blank" href="https://github.com/MikeJakuszewski/Brik-Masonry-Website">
+            <img src="https://github.com/MikeJakuszewski/Brik-Masonry-Website/blob/main/Brik-Gif.gif" width="100%"  alt="Brik Masonry"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/MikeJakuszewski/Fadeworks-Barbershop-Website">FadeWorks Barbershop</a>
+      <br />
+        <a target="_blank" href="https://github.com/MikeJakuszewski/Fadeworks-Barbershop-Website">
+          <img src="https://github.com/MikeJakuszewski/Fadeworks-Barbershop-Website/blob/main/Fadeworks-Gif.gif" width="100%" alt="FadeWorks Barbershop"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/MikeJakuszewski/Travel-Memory-Game">Destinations Memory Game</a>
+        <br />
+        <a target="_blank" href="https://github.com/MikeJakuszewski/Travel-Memory-Game/">
+          <img src="https://github.com/MikeJakuszewski/Travel-Memory-Game" width="100%" alt="Destinations Memory Game"/>
+        </a>
+    </td>
+  </tr>
+</table>
