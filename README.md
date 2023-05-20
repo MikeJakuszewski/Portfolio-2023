@@ -55,7 +55,7 @@ These are some of the projects I have on my portfolio:
 <a target="_blank" href="https://github.com/MikeJakuszewski/Travel-Memory-Game">Destinations Memory Game</a>
         <br />
         <a target="_blank" href="https://github.com/MikeJakuszewski/Travel-Memory-Game/">
-          <img src="https://github.com/MikeJakuszewski/Travel-Memory-Game" width="100%" alt="Destinations Memory Game"/>
+          <img src="https://github.com/MikeJakuszewski/Travel-Memory-Game/blob/main/Travel-Gif.gif" width="100%" alt="Destinations Memory Game"/>
         </a>
     </td>
   </tr>
